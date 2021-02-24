@@ -1,0 +1,13 @@
+.Idcard{
+    display: flex;
+    border-style: solid;
+    margin-bottom: 2rem;
+    width: 25rem;
+}
+
+.info{
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}

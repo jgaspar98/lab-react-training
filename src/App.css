@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.credit-cards{
+  display: flex;
+  margin: 1rem;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
